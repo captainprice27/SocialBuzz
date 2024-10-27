@@ -15,7 +15,8 @@ Some Features of the web app:
 
 ### Setup .env file
 
-(while deployment , no need to put NODE_ENV as environment variable)
+(while deployment , no need to put **NODE_ENV** as environment variable)
+(also add a .env file in the root directory , which is ignored here along with node_modules etc)
 
 ```js
 MONGO_URI=...
