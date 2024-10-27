@@ -38,3 +38,13 @@ npm run build
 ```shell
 npm start
 ```
+
+## Sign in Page Screenshot : 
+
+![image](https://github.com/user-attachments/assets/9c958d37-f386-4746-a6c5-0b5da5ee16ea)
+
+## Homepage UI Screenshot : 
+
+![image](https://github.com/user-attachments/assets/c42c6645-f7c2-4dac-98d4-8c7b63461a6f)
+
+
