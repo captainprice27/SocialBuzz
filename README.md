@@ -13,7 +13,7 @@ Some Features of the web app:
 -   📷 Image Uploads in a post using Cloudinary
 -   🔔 Send Notifications
 
-### Setup .env file
+### .env file format
 
 (while deployment , no need to put **NODE_ENV** as environment variable)
 (also add a .env file in the root directory , which is ignored here along with node_modules etc)
@@ -40,11 +40,11 @@ npm run build
 npm start
 ```
 
-## Sign in Page Screenshot : 
+### Sign in Page Screenshot : 
 
 ![image](https://github.com/user-attachments/assets/9c958d37-f386-4746-a6c5-0b5da5ee16ea)
 
-## Homepage UI Screenshot : 
+### Homepage UI Screenshot : 
 
 ![image](https://github.com/user-attachments/assets/c42c6645-f7c2-4dac-98d4-8c7b63461a6f)
 
